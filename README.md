@@ -1,5 +1,4 @@
 # Information-Retrieval-Tool
----------------------------------------------------------------------------
 simple IR tool Implementation includes: 
 ### 1. Preprocessing of text: 
   * Tokenization
